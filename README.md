@@ -1,4 +1,4 @@
-# Cyborg-
+# Cyborg
 Wireless robotic arm
 
 ##  Introduction 
